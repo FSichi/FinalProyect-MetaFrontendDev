@@ -6,6 +6,11 @@ The little lemon app is the capstone project for Meta's Front-End Developer Cert
 
 <h2 id="technologies">🚀 Technologies</h2>
 
+To see and build the proyect, download the source code, Then execute this following steps:
+
+1. npm install
+2. npm run dev
+
 This project was developed with the following technologies:
 
 - React JS
